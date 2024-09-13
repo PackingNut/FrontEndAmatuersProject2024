@@ -1,2 +1,2 @@
-# WebDevClass2023
-This repository will contain all the projects done in web development class 
+# FrontEndAmatuersProject2024
+This repository will contain all the projects done in the front end amatuers project; Where we are using full stack to create our own website.
